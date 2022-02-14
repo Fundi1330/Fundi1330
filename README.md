@@ -1,3 +1,5 @@
-# About
-Hello I'm Roman. Starter programmer
-I code on html, css and python
+# I am a begginner programmer
+# Languages
+Html<br>
+Css<br>
+Python
