@@ -1,3 +1,4 @@
 # I am a begginner programmer
 # Languages
-<img src="1024px-HTML5_logo_and_wordmark.svg.png" alt="html">
+<img class="img" src="html.png" alt="html">
+<img class="img" src="css.png" alt="css">
