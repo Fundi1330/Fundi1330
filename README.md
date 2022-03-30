@@ -1,7 +1,7 @@
 # I am a begginner programmer
 # Languages
-<img class="img" src="html.png" alt="html">
-<img class="img" src="css.png" alt="css">
+<img class="img" src="html.png" alt="html" height="150px" width="150px">
+<img class="img" src="css.png" alt="css" height="150px" width="150px">
 Now I'm learning js and python
 
 # Statics
