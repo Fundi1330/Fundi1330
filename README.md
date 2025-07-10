@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⌚ Passionate about programming since 2022<br>🧑‍💻Freelancer<br>☕My English level is B1<br>✨I enjoy reading, politics, history and playing the guitar</p>
+<p align="left">⌚ Passionate about programming since 2022<br>🧑‍💻Freelancer<br>☕My English level is B1<br>✨I enjoy reading, cooking, history and playing the guitar</p>
 
 ###
 
@@ -45,14 +45,6 @@
 </div>
 
 ###
-
-<h2 align="left">My profile views</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Fundi1330/count.svg?"  />
-</div>
 
 ###
 
