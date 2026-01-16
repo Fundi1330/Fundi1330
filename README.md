@@ -6,8 +6,6 @@ Junior full-stack developer from Ukraine
 
 ⌚ Passionate about programming since 2022
 
-🎂 15 Years old
-
 🧑‍💻 Freelancer
 
 ☕ My English level is B1
