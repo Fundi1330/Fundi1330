@@ -1,4 +1,4 @@
-# Hi👋, I am Roman</h1>
+# Hi👋, I am Roman
 
 Junior full-stack developer from Ukraine
 
@@ -8,9 +8,9 @@ Junior full-stack developer from Ukraine
 
 🧑‍💻 Freelancer
 
-☕ My English level is B1
+☕ My English level is B2
 
-✨ I enjoy reading, cooking, history and playing the guitar
+✨ I enjoy reading, cooking, drawing, studying history and playing the guitar
 
 ## My skills & tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pytest,html,css,js,ts,react,reactrouter,django,flask,bootstrap,tailwindcss,sqlite,postgres,docker,vscode,terminal,wsl)
